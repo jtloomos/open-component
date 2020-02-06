@@ -1,0 +1,16 @@
+.card {
+  font-size: 30px;
+  margin: 20px;
+  text-align: center;
+  background-color: lightgray;
+  margin: 5px;
+  width: 50%;
+  border-radius: 5px;
+  padding: 6px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+
+}

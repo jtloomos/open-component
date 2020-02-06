@@ -1,0 +1,38 @@
+.individual-pipeline {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.status-full {
+  height: 30px;
+  width: 10px;
+  background-color: green;
+  margin: 1px;
+  border-radius: 2px;
+
+}
+
+.status {
+  height: 30px;
+  width: 10px;
+  background-color: lightgray;
+  margin: 1px;
+  border-radius: 2px;
+}
+
+.status-tracker {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.individual-pipeline h2 {
+  font-size: 16px;
+  color: purple;
+}
+
+.individual-pipeline h3 {
+  font-size: 14px;
+  color: gray;
+}
